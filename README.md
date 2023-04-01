@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darshan-1102
 - 👀 I’m interested in ... UI designing with FLutter
 - 🌱 I’m currently learning ... Ruby on Rails
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Flutter Apps
 - 📫 How to reach me ...
 
 <!---
